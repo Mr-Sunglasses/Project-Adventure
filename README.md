@@ -56,15 +56,6 @@ https://www.postman.com/downloads/ Not required but useful for testing the API
   - Starts the frontend.
 - If you get an error saying you are missing dependencies simply run "yarn" in the terminal.
 
-# User Manual
-
-[User Manual](./documents/UserManual.pdf)
-
-This manual is specifically designed for the use of Quality Electric Service
-employees. It will help you maintain, organize, and keep detailed records. In
-this manual you’ll find screenshots, explanations, and instructions on how to
-properly use the system.
-
 # Application Screenshots
 
 ## Admin Account / General Screenshots
